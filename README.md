@@ -30,3 +30,6 @@ Les katas sont ogranisés par thèmes :
 ## Compilations
 * [Awesome Kata](https://github.com/gamontalvo/awesome-katas) - Awesome Katas - Liste de katas de toutes sortes
 
+
+## Outils
+* [Kata Tester](https://github.com/jripault/KataTester) - Petit projet pour faire valider le code des participants via une API. A voir si ca peut être utilisable facilement en conditions réelles
