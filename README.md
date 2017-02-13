@@ -7,6 +7,7 @@ Les katas sont ogranisés par thèmes :
 
 - [Awesome Dojos](#awesome-dojos)
     - [Refactoring](#refactoring)
+    - [TDD](#tdd)
     - [Java 8](#java8)
     - [Functional Programming](#functional-programming)
     - [Compilations](#compilations)
@@ -14,6 +15,11 @@ Les katas sont ogranisés par thèmes :
 
 ## Refactoring 
 * [TennisRefacto](https://github.com/emilybache/Tennis-Refactoring-Kata) - Tennis Refactoring Kata - Kata de refactoring proposé dans de nombreux langages
+* [GildedRose](https://github.com/jripault/KataGildedRose) - Gilded Rose refactoring Kata - Kata classique pour le refactoring de code
+
+## TDD 
+* [String Calculator](https://github.com/jripault/KataStringCalculator) - Sujet classique pour introduire le TDD
+* [Mocks](https://github.com/jripault/KataMock) - Introduction aux mocks (Java)
 
 ## Java 8
 * [LambdaLab](https://github.com/stuart-marks/LambdaHOLv2) - JavaOne 2016 Lambda/Streams Programming Laboratory - Ensembles d'exercices permettant de découvrir différents aspects de java 8
