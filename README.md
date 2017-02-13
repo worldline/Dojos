@@ -9,6 +9,7 @@ Les katas sont ogranisés par thèmes :
     - [Refactoring](#refactoring)
     - [Java 8](#java8)
     - [Functional Programming](#functional-programming)
+    - [Compilations](#compilations)
 - [Contributing](#contributing)
 
 ## Refactoring 
@@ -19,4 +20,7 @@ Les katas sont ogranisés par thèmes :
 
 ## Functional Programming
 * [PathFunctionnal](https://github.com/tyrcho/path-kata) - Functional Programming Kata : Paths - Introduction à la programmation fonctionnelle sur le kata PATH
+
+## Compilations
+* [Awesome Kata](https://github.com/gamontalvo/awesome-katas) - Awesome Katas - Liste de katas de toutes sortes
 
