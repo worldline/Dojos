@@ -13,11 +13,12 @@ Les katas sont ogranisés par thèmes :
     - [Compilations](#compilations)
 - [Contributing](#contributing)
 
-## Refactoring 
+## Refactoring
 * [TennisRefacto](https://github.com/emilybache/Tennis-Refactoring-Kata) - Tennis Refactoring Kata - Kata de refactoring proposé dans de nombreux langages
 * [GildedRose](https://github.com/jripault/KataGildedRose) - Gilded Rose refactoring Kata - Kata classique pour le refactoring de code
+* [Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata) - Parrot Refactoring Kata - Kata ciblé sur le refactoring de code impératif vers du  polymorphisme
 
-## TDD 
+## TDD
 * [String Calculator](https://github.com/jripault/KataStringCalculator) - Sujet classique pour introduire le TDD
 * [Mocks](https://github.com/jripault/KataMock) - Introduction aux mocks (Java)
 
