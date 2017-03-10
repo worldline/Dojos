@@ -26,7 +26,7 @@ Les katas sont ogranisés par thèmes :
 * [LambdaLab](https://github.com/stuart-marks/LambdaHOLv2) - JavaOne 2016 Lambda/Streams Programming Laboratory - Ensembles d'exercices permettant de découvrir différents aspects de java 8
 
 ## Functional Programming
-* [PathFunctionnal](https://github.com/tyrcho/path-kata) - Functional Programming Kata : Paths - Introduction à la programmation fonctionnelle sur le kata PATH
+* [PathFunctionnal](https://github.com/tyrcho/path-kata) - Functional Programming Kata : Paths - Introduction à la programmation fonctionnelle sur le kata PATH. Given in Seclin, Lille by Michel (@tyrcho) and Philippe Duval 
 
 ## Compilations
 * [Awesome Kata](https://github.com/gamontalvo/awesome-katas) - Awesome Katas - Liste de katas de toutes sortes
