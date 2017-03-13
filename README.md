@@ -15,15 +15,16 @@ Les katas sont ogranisés par thèmes :
 
 ## Refactoring
 * [TennisRefacto](https://github.com/emilybache/Tennis-Refactoring-Kata) - Tennis Refactoring Kata - Kata de refactoring proposé dans de nombreux langages
-* [GildedRose](https://github.com/jripault/KataGildedRose) - Gilded Rose refactoring Kata - Kata classique pour le refactoring de code
+* [GildedRose](https://github.com/jripault/KataGildedRose) - Gilded Rose refactoring Kata - Kata classique pour le refactoring de code. Given in Lyon by Julien Villanti & Julien Ripault
 * [Parrot](https://github.com/emilybache/Parrot-Refactoring-Kata) - Parrot Refactoring Kata - Kata ciblé sur le refactoring de code impératif vers du  polymorphisme
 
 ## TDD
-* [String Calculator](https://github.com/jripault/KataStringCalculator) - Sujet classique pour introduire le TDD
-* [Mocks](https://github.com/jripault/KataMock) - Introduction aux mocks (Java)
+* [String Calculator](https://github.com/jripault/KataStringCalculator) - Sujet classique pour introduire le TDD. Given in Lyon by Julien Villanti & Julien Ripault
+* [Mocks](https://github.com/jripault/KataMock) - Introduction aux mocks (Java). Given in Lyon by Julien Villanti & Julien Ripault
 
 ## Java 8
 * [LambdaLab](https://github.com/stuart-marks/LambdaHOLv2) - JavaOne 2016 Lambda/Streams Programming Laboratory - Ensembles d'exercices permettant de découvrir différents aspects de java 8
+* [Streams](https://github.com/jripault/KataJava8) - Introduction to streams in Java 8. Given in Lyon by Julien Villanti & Julien Ripault
 
 ## Functional Programming
 * [PathFunctionnal](https://github.com/tyrcho/path-kata) - Functional Programming Kata : Paths - Introduction à la programmation fonctionnelle sur le kata PATH. Given in Seclin, Lille by Michel (@tyrcho) and Philippe Duval 
